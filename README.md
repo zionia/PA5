@@ -3,6 +3,7 @@ COS 221 Practical 6 - Group 2
 Members: 
 u21655325 - Zion van Wyk
 u22609254 - Thabiso Matau
+u21595969 - Given Chauke
 [add student number and name here]
 
 Task 1:
