@@ -1,9 +1,11 @@
 # PA5
-COS 221 Practical 6 - Group 2
+COS 221 Practical 5 - Group 2
 Members: 
 u21655325 - Zion van Wyk
 u22609254 - Thabiso Matau
 u21595969 - Given Chauke
+u21572993 - Nevan Rahman
+u22747886 - Atidaishe Mupanemunda
 [add student number and name here]
 
 Task 1:
