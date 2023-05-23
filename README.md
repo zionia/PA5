@@ -4,6 +4,7 @@ Members:
 u21655325 - Zion van Wyk
 u22609254 - Thabiso Matau
 u21595969 - Given Chauke
+u18073655 - Shama Kamina
 [add student number and name here]
 
 Task 1:
