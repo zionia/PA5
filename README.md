@@ -6,7 +6,8 @@ u22609254 - Thabiso Matau
 u21595969 - Given Chauke
 u21572993 - Nevan Rahman
 u22747886 - Atidaishe Mupanemunda
-[add student number and name here]
+u18073655 - Shama Kamina
+
 
 Task 1:
 Zion 
